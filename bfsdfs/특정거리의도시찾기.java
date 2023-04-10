@@ -55,10 +55,16 @@ public class 특정거리의도시찾기 {
             }
         }
 
+        boolean found = false;
         for (int i = 1; i <= numOfCity; i++) {
             if (minDistance[i] == distance) {
                 System.out.println(i);
+                found = true;
             }
+        }
+
+        if (!found) {
+            System.out.println(-1);
         }
     }
 }
