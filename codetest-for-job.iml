@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/implementation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/bfsdfs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/binary" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dynamic" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/sorting" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
