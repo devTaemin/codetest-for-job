@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/bfsdfs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/binary" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/dynamic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/graph" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/shortroute" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/sorting" isTestSource="false" />
     </content>
